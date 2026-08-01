@@ -6,4 +6,4 @@ I came up through the data side — R, Stata, and SAS, then Python when I needed
 
 I still build things. I don't trust an opinion about a tool until I've used it badly for at least a few hours first. It keeps my strategy grounded and stops me from asking my teams for unrealistic things that can read as an executive wish list
 
-What's here is whatever I'm poking at. Some of it is small, some isn't, and it's sporadic flavor reflects my unpredictable schedule. 
+What's here is whatever I'm poking at. Some of it's small, some isn't, all depends on what my schedule permits.
